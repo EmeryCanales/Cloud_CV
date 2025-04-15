@@ -1,0 +1,27 @@
+body {
+	background-color:white;
+}
+
+
+h1 {
+text-align:center;
+
+} 
+
+h2 {
+text-align:center;
+}
+
+h3 {
+margin-left:30px;
+background-color:lightblue
+}
+h4 {margin-left:30px;}
+h5 {margin-left:30px;}
+p {
+margin-left:30px;
+
+}
+
+p {font-size:14px;}
+li {font-size:14px;}
